@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<qamaintain>
+	<question type="select">
+		<id>1</id>
+		<content>Which this the biggest?</content>
+		<option num="A">mouse</option>
+		<option num="B">big mouse</option>
+		<option num="C">big big mouse</option>
+		<answer>C</answer>
+	</question>
+</qamaintain>
